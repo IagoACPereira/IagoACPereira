@@ -17,7 +17,7 @@
 ### 🖥️ Front-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
   </a>
 </p>
 
