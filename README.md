@@ -3,7 +3,7 @@
 ### ⚙️ Back-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,express,nest,sequelize" />
+    <img src="https://skillicons.dev/icons?i=node,javascript,typescript,express,nest,sequelize" />
   </a>
 </p>
 
