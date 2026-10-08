@@ -11,14 +11,14 @@
 ### 🗄️ Banco de dados
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=postgresql,sqlserver,oracledb,sqlite,mysql,mongo" />
   </a>
 </p>
 
 ### 🖥️ Front-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" />
   </a>
 </p>
 
