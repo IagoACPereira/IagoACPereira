@@ -4,7 +4,7 @@
 ### ⚙️ Back-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nest,sequelize,jest,java,springboot" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nest,sequelize,jest,java,spring-boot" />
   </a>
 </p>
 
